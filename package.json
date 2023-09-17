@@ -1,0 +1,21 @@
+{
+  "name": "bismarck-theme",
+  "displayName": "bismarck-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bismarckx-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bismarckx-theme-color-theme.json"
+      }
+    ]
+  }
+}
